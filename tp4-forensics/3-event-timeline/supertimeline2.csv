@@ -1,0 +1,529 @@
+2016-06-10T12:26:27Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp auth.info sshd[1854]: Connection closed by 192.168.1.5 port 41702 [preauth]  (file: /mnt/image/var/log/messages)
+2016-06-10T12:26:27Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp auth.info sshd[1854]: Failed password for root from 192.168.1.5 port 41702 ssh2  (file: /mnt/image/var/log/messages)
+2016-06-10T12:26:28Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp auth.err sshd[1856]: error: Could not get shadow information for NOUSER  (file: /mnt/image/var/log/messages)
+2016-06-10T12:26:28Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp auth.info sshd[1856]: Connection closed by 192.168.1.5 port 41703 [preauth]  (file: /mnt/image/var/log/messages)
+2016-06-10T12:26:28Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp auth.info sshd[1856]: Failed password for invalid user user from 192.168.1.5 port 41703 ssh2  (file: /mnt/image/var/log/messages)
+2016-06-10T12:26:28Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp auth.info sshd[1856]: Invalid user user from 192.168.1.5  (file: /mnt/image/var/log/messages)
+2016-06-10T12:26:28Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp auth.info sshd[1856]: input_userauth_request: invalid user user [preauth]  (file: /mnt/image/var/log/messages)
+2016-06-10T12:26:29Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp auth.err sshd[1858]: error: Could not get shadow information for NOUSER  (file: /mnt/image/var/log/messages)
+2016-06-10T12:26:29Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp auth.info sshd[1858]: Connection closed by 192.168.1.5 port 41706 [preauth]  (file: /mnt/image/var/log/messages)
+2016-06-10T12:26:29Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp auth.info sshd[1858]: Failed password for invalid user admin from 192.168.1.5 port 41706 ssh2  (file: /mnt/image/var/log/messages)
+2016-06-10T12:26:29Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp auth.info sshd[1858]: Invalid user admin from 192.168.1.5  (file: /mnt/image/var/log/messages)
+2016-06-10T12:26:29Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp auth.info sshd[1858]: input_userauth_request: invalid user admin [preauth]  (file: /mnt/image/var/log/messages)
+2016-06-10T12:26:30Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp auth.err sshd[1860]: error: Could not get shadow information for NOUSER  (file: /mnt/image/var/log/messages)
+2016-06-10T12:26:30Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp auth.info sshd[1860]: Connection closed by 192.168.1.5 port 41707 [preauth]  (file: /mnt/image/var/log/messages)
+2016-06-10T12:26:30Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp auth.info sshd[1860]: Failed password for invalid user service from 192.168.1.5 port 41707 ssh2  (file: /mnt/image/var/log/messages)
+2016-06-10T12:26:30Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp auth.info sshd[1860]: Invalid user service from 192.168.1.5  (file: /mnt/image/var/log/messages)
+2016-06-10T12:26:30Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp auth.info sshd[1860]: input_userauth_request: invalid user service [preauth]  (file: /mnt/image/var/log/messages)
+2016-06-10T12:26:31Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp auth.info sshd[1862]: Connection closed by 192.168.1.5 port 41708 [preauth]  (file: /mnt/image/var/log/messages)
+2016-06-10T12:26:31Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp auth.info sshd[1862]: Failed password for root from 192.168.1.5 port 41708 ssh2  (file: /mnt/image/var/log/messages)
+2016-06-10T12:26:32Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp auth.info sshd[1864]: Connection closed by 192.168.1.5 port 41709 [preauth]  (file: /mnt/image/var/log/messages)
+2016-06-10T12:26:32Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp auth.info sshd[1864]: Failed password for root from 192.168.1.5 port 41709 ssh2  (file: /mnt/image/var/log/messages)
+2016-06-10T12:26:34Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp auth.info sshd[1866]: Connection closed by 192.168.1.5 port 41710 [preauth]  (file: /mnt/image/var/log/messages)
+2016-06-10T12:26:34Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp auth.info sshd[1866]: Failed password for root from 192.168.1.5 port 41710 ssh2  (file: /mnt/image/var/log/messages)
+2016-06-10T12:26:35Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp auth.info sshd[1868]: Connection closed by 192.168.1.5 port 41711 [preauth]  (file: /mnt/image/var/log/messages)
+2016-06-10T12:26:35Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp auth.info sshd[1868]: Failed password for root from 192.168.1.5 port 41711 ssh2  (file: /mnt/image/var/log/messages)
+2016-06-10T12:26:36Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp auth.info sshd[1870]: Connection closed by 192.168.1.5 port 41712 [preauth]  (file: /mnt/image/var/log/messages)
+2016-06-10T12:26:36Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp auth.info sshd[1870]: Failed password for root from 192.168.1.5 port 41712 ssh2  (file: /mnt/image/var/log/messages)
+2016-06-10T12:26:37Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp auth.info sshd[1872]: Connection closed by 192.168.1.5 port 41713 [preauth]  (file: /mnt/image/var/log/messages)
+2016-06-10T12:26:37Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp auth.info sshd[1872]: Failed password for root from 192.168.1.5 port 41713 ssh2  (file: /mnt/image/var/log/messages)
+2016-06-10T12:26:38Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp auth.info sshd[1874]: Connection closed by 192.168.1.5 port 41714 [preauth]  (file: /mnt/image/var/log/messages)
+2016-06-10T12:26:38Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp auth.info sshd[1874]: Failed password for root from 192.168.1.5 port 41714 ssh2  (file: /mnt/image/var/log/messages)
+2016-06-10T12:26:39Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp auth.info sshd[1876]: Connection closed by 192.168.1.5 port 41715 [preauth]  (file: /mnt/image/var/log/messages)
+2016-06-10T12:26:39Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp auth.info sshd[1876]: Failed password for root from 192.168.1.5 port 41715 ssh2  (file: /mnt/image/var/log/messages)
+2016-06-10T12:26:40Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp auth.info sshd[1878]: Connection closed by 192.168.1.5 port 41716 [preauth]  (file: /mnt/image/var/log/messages)
+2016-06-10T12:26:40Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp auth.info sshd[1878]: Failed password for root from 192.168.1.5 port 41716 ssh2  (file: /mnt/image/var/log/messages)
+2016-06-10T12:26:41Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp auth.info sshd[1880]: Connection reset by 192.168.1.5 port 41717 [preauth]  (file: /mnt/image/var/log/messages)
+2016-06-10T12:26:41Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp auth.info sshd[1880]: Failed password for root from 192.168.1.5 port 41717 ssh2  (file: /mnt/image/var/log/messages)
+2016-06-10T12:26:42Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp auth.info sshd[1882]: Connection closed by 192.168.1.5 port 41718 [preauth]  (file: /mnt/image/var/log/messages)
+2016-06-10T12:26:42Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp auth.info sshd[1882]: Failed password for root from 192.168.1.5 port 41718 ssh2  (file: /mnt/image/var/log/messages)
+2016-06-10T12:26:44Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp auth.info sshd[1884]: Connection closed by 192.168.1.5 port 41719 [preauth]  (file: /mnt/image/var/log/messages)
+2016-06-10T12:26:44Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp auth.info sshd[1884]: Failed password for root from 192.168.1.5 port 41719 ssh2  (file: /mnt/image/var/log/messages)
+2016-06-10T12:26:45Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp auth.info sshd[1886]: Connection closed by 192.168.1.5 port 41720 [preauth]  (file: /mnt/image/var/log/messages)
+2016-06-10T12:26:45Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp auth.info sshd[1886]: Failed password for root from 192.168.1.5 port 41720 ssh2  (file: /mnt/image/var/log/messages)
+2016-06-10T12:26:46Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp auth.info sshd[1888]: Connection closed by 192.168.1.5 port 41721 [preauth]  (file: /mnt/image/var/log/messages)
+2016-06-10T12:26:46Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp auth.info sshd[1888]: Failed password for root from 192.168.1.5 port 41721 ssh2  (file: /mnt/image/var/log/messages)
+2016-06-10T12:26:47Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp auth.info sshd[1890]: Accepted password for root from 192.168.1.5 port 41722 ssh2  (file: /mnt/image/var/log/messages)
+2016-06-10T12:26:47Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp auth.info sshd[1890]: Disconnected from 192.168.1.5 port 41722  (file: /mnt/image/var/log/messages)
+2016-06-10T12:26:47Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp auth.info sshd[1890]: Received disconnect from 192.168.1.5 port 41722:11: disconnected by user  (file: /mnt/image/var/log/messages)
+2016-06-10T12:27:02Z;1024;m.c.;d/drwxr-xr-x;0;0;195;/home
+2016-06-10T12:27:02Z;12;.a..;l/lrwxrwxrwx;0;0;32;/usr/sbin/addgroup -> /bin/busybox
+2016-06-10T12:27:02Z;12;.a..;l/lrwxrwxrwx;0;0;32763;/bin/sed -> /bin/busybox
+2016-06-10T12:27:02Z;12;.a..;l/lrwxrwxrwx;0;0;33;/usr/sbin/adduser -> /bin/busybox
+2016-06-10T12:27:02Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp auth.info passwd: Password for MeowKitty changed by root  (file: /mnt/image/var/log/messages)
+2016-06-10T12:27:02Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp auth.info sshd[1893]: Accepted password for root from 192.168.1.5 port 41723 ssh2  (file: /mnt/image/var/log/messages)
+2016-06-10T12:27:02Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp auth.info sshd[1893]: Disconnected from 192.168.1.5 port 41723  (file: /mnt/image/var/log/messages)
+2016-06-10T12:27:02Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp auth.info sshd[1893]: Received disconnect from 192.168.1.5 port 41723:11: disconnected by user  (file: /mnt/image/var/log/messages)
+2016-06-10T12:27:02Z;1024;.a..;d/drwxr-sr-x;1002;1002;4110;/home/MeowKitty
+2016-06-10T12:27:02Z;887;m...;r/rrw-r-----;0;42;65286;/etc/shadow-
+2016-06-10T12:27:02Z;1493;m...;r/rrw-r--r--;0;0;67277;/etc/passwd-
+2016-06-10T12:27:34Z;690168;.a..;r/rrw-r--r--;0;0;32648;/var/cache/apk/.apknew.APKINDEX.27c254b4.tar.gz (deleted-realloc)
+2016-06-10T12:27:34Z;690168;.a..;r/rrw-r--r--;0;0;32648;/var/cache/apk/APKINDEX.27c254b4.tar.gz
+2016-06-10T12:27:34Z;202176;.a..;r/rrwxr-xr-x;0;0;32841;/sbin/apk
+2016-06-10T12:27:34Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp auth.info sshd[1900]: Accepted password for MeowKitty from 192.168.1.5 port 41724 ssh2  (file: /mnt/image/var/log/messages)
+2016-06-10T12:27:34Z;7;.a..;r/rrw-r--r--;0;0;65314;/etc/apk/arch
+2016-06-10T12:27:34Z;451;.a..;r/rrw-r--r--;0;0;65320;/etc/apk/keys/alpine-devel@lists.alpinelinux.org-4a6a0840.rsa.pub
+2016-06-10T12:27:34Z;262;.a..;r/rrw-r--r--;0;0;65348;/etc/apk/repositories
+2016-06-10T12:27:34Z;36141;.a..;r/rrw-r--r--;0;0;65388;/etc/services
+2016-06-10T12:27:34Z;1024;.a..;d/drwxr-xr-x;0;0;65453;/etc/apk/protected_paths.d
+2016-06-10T12:27:35Z;478400;..c.;r/rrwxr-xr-x;0;0;2833;/usr/bin/wget
+2016-06-10T12:27:35Z;12;.a..;l/lrwxrwxrwx;0;0;32767;/bin/sleep -> /bin/busybox
+2016-06-10T12:27:35Z;4945;..c.;r/rrw-r--r--;0;0;67040;/etc/passwd- (deleted-realloc)
+2016-06-10T12:27:35Z;4945;..c.;r/rrw-r--r--;0;0;67040;/etc/ssh/sshd_config~ (deleted-realloc)
+2016-06-10T12:27:35Z;4945;..c.;r/rrw-r--r--;0;0;67040;/etc/wgetrc
+2016-06-10T12:27:37Z;393;m.c.;r/rrw-r--r--;0;1002;2594;/home/MeowKitty/ssh.key.pub
+2016-06-10T12:27:37Z;478400;.a..;r/rrwxr-xr-x;0;0;2833;/usr/bin/wget
+2016-06-10T12:27:37Z;1024;m.c.;d/drwxr-sr-x;1002;1002;4110;/home/MeowKitty
+2016-06-10T12:27:37Z;4945;.a..;r/rrw-r--r--;0;0;67040;/etc/passwd- (deleted-realloc)
+2016-06-10T12:27:37Z;4945;.a..;r/rrw-r--r--;0;0;67040;/etc/ssh/sshd_config~ (deleted-realloc)
+2016-06-10T12:27:37Z;4945;.a..;r/rrw-r--r--;0;0;67040;/etc/wgetrc
+2016-06-10T12:27:38Z;1024;m.c.;d/drwx------;0;0;199;/root
+2016-06-10T12:27:38Z;1024;.a..;d/drwxr-xr-x;0;0;4111;/root/.ssh
+2016-06-10T12:27:41Z;393;.a..;r/rrw-r--r--;0;1002;2594;/home/MeowKitty/ssh.key.pub
+2016-06-10T12:27:41Z;393;m.c.;r/rrw-r--r--;0;0;2834;/root/.ssh/authorized_keys
+2016-06-10T12:27:41Z;1024;m.c.;d/drwxr-xr-x;0;0;4111;/root/.ssh
+2016-06-10T12:27:43Z;1024;.a..;d/drwxr-sr-x;0;1001;4112;/home/jean/.ssh
+2016-06-10T12:27:46Z;393;mac.;r/rrw-r--r--;0;1001;2835;/home/jean/.ssh/authorized_keys
+2016-06-10T12:27:46Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp auth.info sshd[1900]: Disconnected from 192.168.1.5 port 41724  (file: /mnt/image/var/log/messages)
+2016-06-10T12:27:46Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp auth.info sshd[1900]: Received disconnect from 192.168.1.5 port 41724:11: disconnected by user  (file: /mnt/image/var/log/messages)
+2016-06-10T12:27:46Z;1024;m.c.;d/drwxr-sr-x;0;1001;4112;/home/jean/.ssh
+2016-06-10T12:28:46Z;393;.a..;r/rrw-r--r--;0;0;2834;/root/.ssh/authorized_keys
+2016-06-10T12:28:46Z;12;.a..;l/lrwxrwxrwx;0;0;32668;/bin/chown -> /bin/busybox
+2016-06-10T12:28:46Z;12;.a..;l/lrwxrwxrwx;0;0;32741;/bin/mv -> /bin/busybox
+2016-06-10T12:28:46Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp auth.info sshd[1919]: Accepted publickey for root from 192.168.1.5 port 41725 ssh2: RSA SHA256:8dc6+dBy7ZevbCjyG/jwzeDjahTf/4PDWgSZCk3QKxw  (file: /mnt/image/var/log/messages)
+2016-06-10T12:28:46Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp auth.info sshd[1919]: Disconnected from 192.168.1.5 port 41725  (file: /mnt/image/var/log/messages)
+2016-06-10T12:28:46Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp auth.info sshd[1919]: Received disconnect from 192.168.1.5 port 41725:11: disconnected by user  (file: /mnt/image/var/log/messages)
+2016-06-10T12:28:46Z;1024;m.c.;d/drwxr-sr-x;1001;1001;4104;/home/jean
+2016-06-10T12:28:46Z;345;mac.;r/rrw-r--r--;0;0;67280;/etc/vsftpd/vsftpd.conf
+2016-06-10T12:28:46Z;193;..c.;r/rrw-r--r--;0;0;67281;/etc/vsftpd/vsftpd.conf.old
+2016-06-10T12:28:46Z;1024;m.c.;d/drwxr-xr-x;0;0;67331;/etc/vsftpd
+2016-06-10T12:28:50Z;45019;mac.;r/rrw-------;21;21;2836;/home/jean/photos/freedom_for_cat.jpg
+2016-06-10T12:28:50Z;135044;mac.;r/rrw-------;21;21;2837;/home/jean/photos/hack-me.jpg
+2016-06-10T12:28:50Z;217591;mac.;r/rrw-------;21;21;2838;/home/jean/photos/hacker_meow_in_action.png
+2016-06-10T12:28:50Z;58549;mac.;r/rrw-------;21;21;2839;/home/jean/photos/hackykitty.jpg
+2016-06-10T12:28:50Z;17635;mac.;r/rrw-------;21;21;2840;/home/jean/photos/kittylogger.jpg
+2016-06-10T12:28:50Z;12503;mac.;r/rrw-------;21;21;2841;/home/jean/photos/meow_wins.jpg
+2016-06-10T12:28:50Z;263728;mac.;r/rrw-------;21;21;2842;/home/jean/photos/we_will-we_will-hack_you!.jpg
+2016-06-10T12:28:50Z;0;macb;0;0;0;35715;"[OpenVPN] (Entry written) [pid 1] [ftp] OK LOGIN: Client ""192.168.1.5""- anon password ""n""  (file: /var/log/vsftpd.log)"
+2016-06-10T12:28:50Z;0;macb;0;0;0;35715;"[OpenVPN] (Entry written) [pid 2] CONNECT: Client ""192.168.1.5""  (file: /var/log/vsftpd.log)"
+2016-06-10T12:28:50Z;0;macb;0;0;0;35715;"[OpenVPN] (Entry written) [pid 3] [ftp] OK UPLOAD: Client ""192.168.1.5""- ""/photos/freedom_for_cat.jpg""- 45019 bytes- 10048.88Kbyte/sec  (file: /var/log/vsftpd.log)"
+2016-06-10T12:28:50Z;0;macb;0;0;0;35715;"[OpenVPN] (Entry written) [pid 3] [ftp] OK UPLOAD: Client ""192.168.1.5""- ""/photos/hack-me.jpg""- 135044 bytes- 24083.07Kbyte/sec  (file: /var/log/vsftpd.log)"
+2016-06-10T12:28:50Z;0;macb;0;0;0;35715;"[OpenVPN] (Entry written) [pid 3] [ftp] OK UPLOAD: Client ""192.168.1.5""- ""/photos/hacker_meow_in_action.png""- 217591 bytes- 19888.73Kbyte/sec  (file: /var/log/vsftpd.log)"
+2016-06-10T12:28:50Z;0;macb;0;0;0;35715;"[OpenVPN] (Entry written) [pid 3] [ftp] OK UPLOAD: Client ""192.168.1.5""- ""/photos/hackykitty.jpg""- 58549 bytes- 10371.26Kbyte/sec  (file: /var/log/vsftpd.log)"
+2016-06-10T12:28:50Z;0;macb;0;0;0;35715;"[OpenVPN] (Entry written) [pid 3] [ftp] OK UPLOAD: Client ""192.168.1.5""- ""/photos/kittylogger.jpg""- 17635 bytes- 4590.00Kbyte/sec  (file: /var/log/vsftpd.log)"
+2016-06-10T12:28:50Z;0;macb;0;0;0;35715;"[OpenVPN] (Entry written) [pid 3] [ftp] OK UPLOAD: Client ""192.168.1.5""- ""/photos/meow_wins.jpg""- 12503 bytes- 4025.70Kbyte/sec  (file: /var/log/vsftpd.log)"
+2016-06-10T12:28:50Z;0;macb;0;0;0;35715;"[OpenVPN] (Entry written) [pid 3] [ftp] OK UPLOAD: Client ""192.168.1.5""- ""/photos/we_will-we_will-hack_you!.jpg""- 263728 bytes- 27782.83Kbyte/sec  (file: /var/log/vsftpd.log)"
+2016-06-10T12:28:50Z;1024;m.c.;d/drwxrwxrwx;0;1001;4113;/home/jean/photos
+2016-06-10T12:29:20Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp auth.info sshd[1979]: Accepted publickey for root from 192.168.1.5 port 41727 ssh2: RSA SHA256:8dc6+dBy7ZevbCjyG/jwzeDjahTf/4PDWgSZCk3QKxw  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:21Z;27136;mac.;r/rrw-r--r--;0;0;1045;/lib/apk/db/scripts.tar
+2016-06-10T12:29:21Z;11;mac.;l/lrwxrwxrwx;0;0;118;/usr/bin/passwd -> /bin/bbsuid
+2016-06-10T12:29:21Z;1024;m.c.;d/drwxr-xr-x;0;0;15;/lib/apk/db
+2016-06-10T12:29:21Z;11;mac.;l/lrwxrwxrwx;0;0;166;/usr/bin/traceroute -> /bin/bbsuid
+2016-06-10T12:29:21Z;11;mac.;l/lrwxrwxrwx;0;0;188;/usr/bin/su -> /bin/bbsuid
+2016-06-10T12:29:21Z;3072;m.c.;d/drwxr-xr-x;0;0;20;/usr/sbin
+2016-06-10T12:29:21Z;5120;m.c.;d/drwxr-xr-x;0;0;25;/usr/bin
+2016-06-10T12:29:21Z;2156;.a..;r/rrwxr-xr-x;0;0;267;/lib/rc/sh/gendepends.sh
+2016-06-10T12:29:21Z;290;mac.;r/rrw-r--r--;0;0;2829;/lib/apk/db/triggers
+2016-06-10T12:29:21Z;290;mac.;r/rrw-r--r--;0;0;2829;/lib/apk/db/triggers.new (deleted-realloc)
+2016-06-10T12:29:21Z;75576;..c.;r/rrw-r--r--;0;0;2843;/usr/lib/libgcc_s.so.1
+2016-06-10T12:29:21Z;20;m.c.;l/lrwxrwxrwx;0;0;2844;/usr/lib/libisccfg.so.140 -> libisccfg.so.140.3.0
+2016-06-10T12:29:21Z;54928;..c.;r/rrwxr-xr-x;0;0;2845;/usr/lib/libbind9.so.140.0.10
+2016-06-10T12:29:21Z;17;mac.;l/lrwxrwxrwx;0;0;2846;/usr/lib/libirs.so.141 -> libirs.so.141.0.4
+2016-06-10T12:29:21Z;1688264;..c.;r/rrwxr-xr-x;0;0;2847;/usr/lib/libdns.so.162.1.3
+2016-06-10T12:29:21Z;19;m.c.;l/lrwxrwxrwx;0;0;2848;/usr/lib/libisccc.so.140 -> libisccc.so.140.0.4
+2016-06-10T12:29:21Z;20;m.c.;l/lrwxrwxrwx;0;0;2849;/usr/lib/libbind9.so.140 -> libbind9.so.140.0.10
+2016-06-10T12:29:21Z;19;m.c.;l/lrwxrwxrwx;0;0;2850;/usr/lib/liblwres.so.141 -> liblwres.so.141.0.3
+2016-06-10T12:29:21Z;145632;..c.;r/rrwxr-xr-x;0;0;2851;/usr/lib/libisccfg.so.140.3.0
+2016-06-10T12:29:21Z;145632;..c.;r/rrwxr-xr-x;0;0;2851;/usr/lib/libisccfg.so.140.3.0.apk-new (deleted-realloc)
+2016-06-10T12:29:21Z;67344;..c.;r/rrwxr-xr-x;0;0;2852;/usr/lib/liblwres.so.141.0.3
+2016-06-10T12:29:21Z;67344;..c.;r/rrwxr-xr-x;0;0;2852;/usr/lib/liblwres.so.141.0.3.apk-new (deleted-realloc)
+2016-06-10T12:29:21Z;17;m.c.;l/lrwxrwxrwx;0;0;2853;/usr/lib/libdns.so.162 -> libdns.so.162.1.3
+2016-06-10T12:29:21Z;17;m.c.;l/lrwxrwxrwx;0;0;2854;/usr/lib/libisc.so.160 -> libisc.so.160.0.0
+2016-06-10T12:29:21Z;38672;..c.;r/rrwxr-xr-x;0;0;2855;/usr/lib/libirs.so.141.0.4
+2016-06-10T12:29:21Z;38672;..c.;r/rrwxr-xr-x;0;0;2855;/usr/lib/libirs.so.141.0.4.apk-new (deleted-realloc)
+2016-06-10T12:29:21Z;34760;..c.;r/rrwxr-xr-x;0;0;2856;/usr/lib/libisccc.so.140.0.4
+2016-06-10T12:29:21Z;34760;..c.;r/rrwxr-xr-x;0;0;2856;/usr/lib/libisccc.so.140.0.4.apk-new (deleted-realloc)
+2016-06-10T12:29:21Z;368544;..c.;r/rrwxr-xr-x;0;0;2857;/usr/lib/libisc.so.160.0.0
+2016-06-10T12:29:21Z;368544;..c.;r/rrwxr-xr-x;0;0;2857;/usr/lib/libisc.so.160.0.0.apk-new (deleted-realloc)
+2016-06-10T12:29:21Z;30528;..c.;r/rrwxr-xr-x;0;0;2858;/usr/sbin/named-checkconf
+2016-06-10T12:29:21Z;30528;..c.;r/rrwxr-xr-x;0;0;2858;/usr/sbin/named-checkconf.apk-new (deleted-realloc)
+2016-06-10T12:29:21Z;18064;..c.;r/rrwxr-xr-x;0;0;2859;/usr/sbin/ddns-confgen
+2016-06-10T12:29:21Z;18064;..c.;r/rrwxr-xr-x;0;0;2859;/usr/sbin/ddns-confgen.apk-new (deleted-realloc)
+2016-06-10T12:29:21Z;3072;m.c.;d/drwxr-xr-x;0;0;286;/usr/lib
+2016-06-10T12:29:21Z;545112;..c.;r/rrwxr-xr-x;0;0;2860;/usr/sbin/lwresd
+2016-06-10T12:29:21Z;545112;..c.;r/rrwxr-xr-x;0;0;2860;/usr/sbin/lwresd.apk-new (deleted-realloc)
+2016-06-10T12:29:21Z;545112;..c.;r/rrwxr-xr-x;0;0;2860;/usr/sbin/named
+2016-06-10T12:29:21Z;545112;..c.;r/rrwxr-xr-x;0;0;2860;/usr/sbin/named.apk-new (deleted-realloc)
+2016-06-10T12:29:21Z;9872;..c.;r/rrwxr-xr-x;0;0;2861;/usr/sbin/isc-hmac-fixup
+2016-06-10T12:29:21Z;9872;..c.;r/rrwxr-xr-x;0;0;2861;/usr/sbin/isc-hmac-fixup.apk-new (deleted-realloc)
+2016-06-10T12:29:21Z;30528;..c.;r/rrwxr-xr-x;0;0;2862;/usr/sbin/named-checkzone
+2016-06-10T12:29:21Z;30528;..c.;r/rrwxr-xr-x;0;0;2862;/usr/sbin/named-checkzone.apk-new (deleted-realloc)
+2016-06-10T12:29:21Z;9880;..c.;r/rrwxr-xr-x;0;0;2863;/usr/sbin/genrandom
+2016-06-10T12:29:21Z;9880;..c.;r/rrwxr-xr-x;0;0;2863;/usr/sbin/genrandom.apk-new (deleted-realloc)
+2016-06-10T12:29:21Z;5776;..c.;r/rrwxr-xr-x;0;0;2864;/usr/sbin/arpaname
+2016-06-10T12:29:21Z;18064;..c.;r/rrwxr-xr-x;0;0;2865;/usr/sbin/rndc-confgen
+2016-06-10T12:29:21Z;9872;..c.;r/rrwxr-xr-x;0;0;2866;/usr/sbin/named-journalprint
+2016-06-10T12:29:21Z;9880;..c.;r/rrwxr-xr-x;0;0;2867;/usr/sbin/nsec3hash
+2016-06-10T12:29:21Z;30352;..c.;r/rrwxr-xr-x;0;0;2868;/usr/sbin/rndc
+2016-06-10T12:29:21Z;30352;..c.;r/rrwxr-xr-x;0;0;2868;/usr/sbin/rndc.apk-new (deleted-realloc)
+2016-06-10T12:29:21Z;13968;..c.;r/rrwxr-xr-x;0;0;2869;/usr/sbin/named-rrchecker
+2016-06-10T12:29:21Z;13968;..c.;r/rrwxr-xr-x;0;0;2869;/usr/sbin/named-rrchecker.apk-new (deleted-realloc)
+2016-06-10T12:29:21Z;12;mac.;l/lrwxrwxrwx;0;0;2870;/usr/sbin/tsig-keygen -> ddns-confgen
+2016-06-10T12:29:21Z;15;mac.;l/lrwxrwxrwx;0;0;2871;/usr/sbin/named-compilezone -> named-checkzone
+2016-06-10T12:29:21Z;15;mac.;l/lrwxrwxrwx;0;0;2871;/usr/sbin/named-compilezone.apk-new -> named-checkzone (deleted-realloc)
+2016-06-10T12:29:21Z;3332;..c.;r/rrwxr-xr-x;0;0;2872;/usr/bin/isc-config.sh
+2016-06-10T12:29:21Z;3332;..c.;r/rrwxr-xr-x;0;0;2872;/usr/bin/isc-config.sh.apk-new (deleted-realloc)
+2016-06-10T12:29:21Z;504096;mac.;r/rrw-r--r--;0;0;2873;/lib/apk/db/installed
+2016-06-10T12:29:21Z;1024;m.c.;d/drwxr-xr-x;0;0;32644;/var
+2016-06-10T12:29:21Z;1024;m.c.;d/drwxr-xr-x;0;0;32647;/var/cache/misc
+2016-06-10T12:29:21Z;3072;m.c.;d/drwxr-xr-x;0;0;32649;/bin
+2016-06-10T12:29:21Z;11;mac.;l/lrwxrwxrwx;0;0;32738;/bin/mount -> /bin/bbsuid
+2016-06-10T12:29:21Z;11;mac.;l/lrwxrwxrwx;0;0;32747;/bin/ping -> /bin/bbsuid
+2016-06-10T12:29:21Z;11;mac.;l/lrwxrwxrwx;0;0;32748;/bin/ping6 -> /bin/bbsuid
+2016-06-10T12:29:21Z;11;m.c.;l/lrwxrwxrwx;0;0;32782;/bin/umount -> /bin/bbsuid
+2016-06-10T12:29:21Z;1024;m.c.;d/drwxr-xr-x;0;0;32796;/var/log
+2016-06-10T12:29:21Z;2878;..c.;r/rrw-r--r--;0;0;35711;/var/bind/named.ca
+2016-06-10T12:29:21Z;423;..c.;r/rrw-r--r--;0;0;35717;/var/bind/pri/localhost.zone
+2016-06-10T12:29:21Z;227;..c.;r/rrw-r--r--;0;0;35718;/var/bind/pri/127.zone
+2016-06-10T12:29:21Z;227;..c.;r/rrw-r--r--;0;0;35718;/var/bind/pri/127.zone.apk-new (deleted-realloc)
+2016-06-10T12:29:21Z;8;mac.;l/lrwxrwxrwx;0;0;35719;/var/bind/root.cache -> named.ca
+2016-06-10T12:29:21Z;1024;mac.;d/drwxrwx---;0;101;36741;/tmp/tmp.JMMEHe (deleted-realloc)
+2016-06-10T12:29:21Z;1024;mac.;d/drwxrwx---;0;101;36741;/var/log/named
+2016-06-10T12:29:21Z;1024;.a..;d/drwxrwx---;0;101;36742;/var/bind
+2016-06-10T12:29:21Z;1024;mac.;d/drwxrwx---;0;101;36743;/var/bind/dyn
+2016-06-10T12:29:21Z;1024;mac.;d/drwxrwx---;0;101;36744;/var/bind/sec
+2016-06-10T12:29:21Z;1024;mac.;d/drwxr-x---;0;101;36745;/var/bind/pri
+2016-06-10T12:29:21Z;11;mac.;l/lrwxrwxrwx;0;0;51;/usr/bin/crontab -> /bin/bbsuid
+2016-06-10T12:29:21Z;3072;m.c.;d/drwxr-xr-x;0;0;65281;/etc
+2016-06-10T12:29:21Z;1694;..c.;r/rrwxr-xr-x;0;0;65284;/etc/init.d/named
+2016-06-10T12:29:21Z;1694;..c.;r/rrwxr-xr-x;0;0;65284;/etc/init.d/named.apk-new (deleted-realloc)
+2016-06-10T12:29:21Z;1694;..c.;r/rrwxr-xr-x;0;0;65284;/etc/shadow (deleted-realloc)
+2016-06-10T12:29:21Z;758;m.c.;r/rrw-r--r--;0;0;65285;/etc/group
+2016-06-10T12:29:21Z;758;m.c.;r/rrw-r--r--;0;0;65285;/etc/passwd (deleted-realloc)
+2016-06-10T12:29:21Z;887;.ac.;r/rrw-r-----;0;42;65286;/etc/shadow-
+2016-06-10T12:29:21Z;1548;m.c.;r/rrw-r--r--;0;0;65288;/etc/passwd
+2016-06-10T12:29:21Z;1548;m.c.;r/rrw-r--r--;0;0;65288;/etc/passwd+ (deleted-realloc)
+2016-06-10T12:29:21Z;1548;m.c.;r/rrw-r--r--;0;0;65288;/etc/shadow- (deleted-realloc)
+2016-06-10T12:29:21Z;1024;m.c.;d/drwxr-xr-x;0;0;65307;/etc/conf.d
+2016-06-10T12:29:21Z;1024;m.c.;d/drwxr-xr-x;0;0;65311;/etc/apk
+2016-06-10T12:29:21Z;1024;m.c.;d/drwxr-xr-x;0;0;65369;/etc/init.d
+2016-06-10T12:29:21Z;1493;.ac.;r/rrw-r--r--;0;0;67277;/etc/passwd-
+2016-06-10T12:29:21Z;914;m.c.;r/rrw-r-----;0;42;67279;/etc/shadow
+2016-06-10T12:29:21Z;914;m.c.;r/rrw-r-----;0;42;67279;/etc/vsftpd/vsftpd.conf~ (deleted-realloc)
+2016-06-10T12:29:21Z;437;m.c.;r/rrw-r--r--;0;101;67282;/etc/bind/named.conf
+2016-06-10T12:29:21Z;753;mac.;r/rrw-r--r--;0;0;67283;/etc/group-
+2016-06-10T12:29:21Z;1835;..c.;r/rrw-r--r--;0;0;67284;/etc/bind/named.conf.authoritative
+2016-06-10T12:29:21Z;2389;..c.;r/rrw-r--r--;0;0;67285;/etc/bind/bind.keys
+2016-06-10T12:29:21Z;3897;..c.;r/rrw-r--r--;0;0;67286;/etc/bind/named.conf.recursive
+2016-06-10T12:29:21Z;3897;..c.;r/rrw-r--r--;0;0;67286;/etc/bind/named.conf.recursive.apk-new (deleted-realloc)
+2016-06-10T12:29:21Z;183;..c.;r/rrw-r--r--;0;0;67287;/etc/conf.d/named
+2016-06-10T12:29:21Z;183;..c.;r/rrw-r--r--;0;0;67287;/etc/conf.d/named.apk-new (deleted-realloc)
+2016-06-10T12:29:21Z;87;mac.;r/rrw-r--r--;0;0;67288;/etc/apk/world
+2016-06-10T12:29:21Z;87;mac.;r/rrw-r--r--;0;0;67288;/etc/apk/world.new (deleted-realloc)
+2016-06-10T12:29:21Z;1024;mac.;d/drwxr-sr-x;1000;101;67332;/etc/bind
+2016-06-10T12:29:22Z;22983;ma..;r/rrw-r--r--;0;0;1047;/lib/rc/cache/deptree
+2016-06-10T12:29:22Z;12;.a..;l/lrwxrwxrwx;0;0;263;/lib/rc/bin/shell_var -> /sbin/openrc
+2016-06-10T12:29:22Z;12;.a..;l/lrwxrwxrwx;0;0;263;/lib/rc/bin/shell_var.apk-new -> /sbin/openrc (deleted-realloc)
+2016-06-10T12:29:22Z;11;ma..;r/rrw-r--r--;0;0;2779;/lib/rc/cache/depconfig
+2016-06-10T12:29:22Z;75576;.a..;r/rrw-r--r--;0;0;2843;/usr/lib/libgcc_s.so.1
+2016-06-10T12:29:22Z;20;.a..;l/lrwxrwxrwx;0;0;2844;/usr/lib/libisccfg.so.140 -> libisccfg.so.140.3.0
+2016-06-10T12:29:22Z;54928;.a..;r/rrwxr-xr-x;0;0;2845;/usr/lib/libbind9.so.140.0.10
+2016-06-10T12:29:22Z;1688264;.a..;r/rrwxr-xr-x;0;0;2847;/usr/lib/libdns.so.162.1.3
+2016-06-10T12:29:22Z;19;.a..;l/lrwxrwxrwx;0;0;2848;/usr/lib/libisccc.so.140 -> libisccc.so.140.0.4
+2016-06-10T12:29:22Z;20;.a..;l/lrwxrwxrwx;0;0;2849;/usr/lib/libbind9.so.140 -> libbind9.so.140.0.10
+2016-06-10T12:29:22Z;19;.a..;l/lrwxrwxrwx;0;0;2850;/usr/lib/liblwres.so.141 -> liblwres.so.141.0.3
+2016-06-10T12:29:22Z;145632;.a..;r/rrwxr-xr-x;0;0;2851;/usr/lib/libisccfg.so.140.3.0
+2016-06-10T12:29:22Z;145632;.a..;r/rrwxr-xr-x;0;0;2851;/usr/lib/libisccfg.so.140.3.0.apk-new (deleted-realloc)
+2016-06-10T12:29:22Z;67344;.a..;r/rrwxr-xr-x;0;0;2852;/usr/lib/liblwres.so.141.0.3
+2016-06-10T12:29:22Z;67344;.a..;r/rrwxr-xr-x;0;0;2852;/usr/lib/liblwres.so.141.0.3.apk-new (deleted-realloc)
+2016-06-10T12:29:22Z;17;.a..;l/lrwxrwxrwx;0;0;2853;/usr/lib/libdns.so.162 -> libdns.so.162.1.3
+2016-06-10T12:29:22Z;17;.a..;l/lrwxrwxrwx;0;0;2854;/usr/lib/libisc.so.160 -> libisc.so.160.0.0
+2016-06-10T12:29:22Z;34760;.a..;r/rrwxr-xr-x;0;0;2856;/usr/lib/libisccc.so.140.0.4
+2016-06-10T12:29:22Z;34760;.a..;r/rrwxr-xr-x;0;0;2856;/usr/lib/libisccc.so.140.0.4.apk-new (deleted-realloc)
+2016-06-10T12:29:22Z;368544;.a..;r/rrwxr-xr-x;0;0;2857;/usr/lib/libisc.so.160.0.0
+2016-06-10T12:29:22Z;368544;.a..;r/rrwxr-xr-x;0;0;2857;/usr/lib/libisc.so.160.0.0.apk-new (deleted-realloc)
+2016-06-10T12:29:22Z;30528;.a..;r/rrwxr-xr-x;0;0;2858;/usr/sbin/named-checkconf
+2016-06-10T12:29:22Z;30528;.a..;r/rrwxr-xr-x;0;0;2858;/usr/sbin/named-checkconf.apk-new (deleted-realloc)
+2016-06-10T12:29:22Z;545112;.a..;r/rrwxr-xr-x;0;0;2860;/usr/sbin/lwresd
+2016-06-10T12:29:22Z;545112;.a..;r/rrwxr-xr-x;0;0;2860;/usr/sbin/lwresd.apk-new (deleted-realloc)
+2016-06-10T12:29:22Z;545112;.a..;r/rrwxr-xr-x;0;0;2860;/usr/sbin/named
+2016-06-10T12:29:22Z;545112;.a..;r/rrwxr-xr-x;0;0;2860;/usr/sbin/named.apk-new (deleted-realloc)
+2016-06-10T12:29:22Z;87208;.a..;r/rr-xr-xr-x;0;0;292;/usr/lib/engines/libgost.so
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp auth.info sshd[1979]: Disconnected from 192.168.1.5 port 41727  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp auth.info sshd[1979]: Received disconnect from 192.168.1.5 port 41727:11: disconnected by user  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.IP6.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 0.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.IP6.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 10.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 100.100.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 100.51.198.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 101.100.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 102.100.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 103.100.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 104.100.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 105.100.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 106.100.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 107.100.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 108.100.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 109.100.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 110.100.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 111.100.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 112.100.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 113.0.203.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 113.100.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 114.100.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 115.100.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 116.100.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 117.100.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 118.100.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 119.100.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 120.100.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 121.100.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 122.100.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 123.100.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 124.100.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 125.100.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 126.100.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 127.100.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 16.172.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 168.192.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 17.172.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 18.172.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 19.172.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 2.0.192.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 20.172.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 21.172.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 22.172.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 23.172.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 24.172.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 25.172.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 254.169.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 255.255.255.255.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 26.172.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 27.172.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 28.172.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 29.172.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 30.172.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 31.172.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 64.100.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 65.100.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 66.100.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 67.100.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 68.100.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 69.100.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 70.100.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 71.100.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 72.100.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 73.100.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 74.100.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 75.100.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 76.100.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 77.100.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 78.100.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 79.100.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 8.B.D.0.1.0.0.2.IP6.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 8.E.F.IP6.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 80.100.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 81.100.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 82.100.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 83.100.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 84.100.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 85.100.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 86.100.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 87.100.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 88.100.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 89.100.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 9.E.F.IP6.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 90.100.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 91.100.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 92.100.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 93.100.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 94.100.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 95.100.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 96.100.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 97.100.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 98.100.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: 99.100.IN-ADDR.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: A.E.F.IP6.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: B.E.F.IP6.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: D.F.IP6.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: automatic empty zone: EMPTY.AS112.ARPA  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: configuring command channel from '/etc/bind/rndc.key'  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: found 1 CPU- using 1 worker thread  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: generating session key for dynamic DNS  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: listening on IPv4 interface eth0- 192.168.1.10#53  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: listening on IPv4 interface lo- 127.0.0.1#53  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: loading configuration from '/etc/bind/named.conf'  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: managed-keys-zone: loaded serial 0  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: reading built-in trusted keys from file '/etc/bind/bind.keys'  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: set up managed keys zone for view _default- file 'managed-keys.bind'  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: sizing zone task pool based on 3 zones  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: using 1 UDP listener per interface  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: using default UDP/IPv4 port range: [32768- 61000]  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: using default UDP/IPv6 port range: [32768- 61000]  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: using up to 4096 sockets  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: zone 127.in-addr.arpa/IN: loaded serial 2002081601  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: zone localhost/IN: loaded serial 2002081601  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.notice named[2129]: ----------------------------------------------------  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.notice named[2129]: BIND 9 is maintained by Internet Systems Consortium-  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.notice named[2129]: Inc. (ISC)- a non-profit 501(c)(3) public-benefit  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.notice named[2129]: adjusted limit on open files from 4096 to 1048576  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.notice named[2129]: all zones loaded  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.notice named[2129]: available at https://www.isc.org/support  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.notice named[2129]: built with '--build=x86_64-alpine-linux-musl' '--host=x86_64-alpine-linux-musl' '--prefix=/usr' '--sysconfdir=/etc/bind' '--localstatedir=/var' '--with-openssl=/usr' '--enable-linux-caps' '--without-libxml2' '--enable-thre  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.notice named[2129]: corporation. Support and training for BIND 9 are  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.notice named[2129]: couldn't add command channel 127.0.0.1#953: file not found  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.notice named[2129]: couldn't add command channel ::1#953: file not found  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.notice named[2129]: running  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.notice named[2129]: starting BIND 9.10.3-P4 <id:ebd72b3> -u named  (file: /mnt/image/var/log/messages)
+2016-06-10T12:29:22Z;2878;.a..;r/rrw-r--r--;0;0;35711;/var/bind/named.ca
+2016-06-10T12:29:22Z;423;.a..;r/rrw-r--r--;0;0;35717;/var/bind/pri/localhost.zone
+2016-06-10T12:29:22Z;227;.a..;r/rrw-r--r--;0;0;35718;/var/bind/pri/127.zone
+2016-06-10T12:29:22Z;227;.a..;r/rrw-r--r--;0;0;35718;/var/bind/pri/127.zone.apk-new (deleted-realloc)
+2016-06-10T12:29:22Z;12;.a..;l/lrwxrwxrwx;0;0;53;/usr/bin/cut -> /bin/busybox
+2016-06-10T12:29:22Z;1694;.a..;r/rrwxr-xr-x;0;0;65284;/etc/init.d/named
+2016-06-10T12:29:22Z;1694;.a..;r/rrwxr-xr-x;0;0;65284;/etc/init.d/named.apk-new (deleted-realloc)
+2016-06-10T12:29:22Z;1694;.a..;r/rrwxr-xr-x;0;0;65284;/etc/shadow (deleted-realloc)
+2016-06-10T12:29:22Z;758;.a..;r/rrw-r--r--;0;0;65285;/etc/group
+2016-06-10T12:29:22Z;758;.a..;r/rrw-r--r--;0;0;65285;/etc/passwd (deleted-realloc)
+2016-06-10T12:29:22Z;1548;.a..;r/rrw-r--r--;0;0;65288;/etc/passwd
+2016-06-10T12:29:22Z;1548;.a..;r/rrw-r--r--;0;0;65288;/etc/passwd+ (deleted-realloc)
+2016-06-10T12:29:22Z;1548;.a..;r/rrw-r--r--;0;0;65288;/etc/shadow- (deleted-realloc)
+2016-06-10T12:29:22Z;720;.a..;r/rrwxr-xr-x;0;0;65364;/etc/init.d/consolefont
+2016-06-10T12:29:22Z;2847;.a..;r/rrwxr-xr-x;0;0;65366;/etc/init.d/modloop
+2016-06-10T12:29:22Z;1024;.a..;d/drwxr-xr-x;0;0;65369;/etc/init.d
+2016-06-10T12:29:22Z;362;.a..;r/rrwxr-xr-x;0;0;65386;/etc/init.d/tmpfiles.dev
+2016-06-10T12:29:22Z;3888;.a..;r/rrwxr-xr-x;0;0;65397;/etc/init.d/sysfs
+2016-06-10T12:29:22Z;3128;.a..;r/rrwxr-xr-x;0;0;65398;/etc/init.d/devfs
+2016-06-10T12:29:22Z;986;.a..;r/rrwxr-xr-x;0;0;65400;/etc/init.d/root
+2016-06-10T12:29:22Z;785;.a..;r/rrwxr-xr-x;0;0;65401;/etc/init.d/loopback
+2016-06-10T12:29:22Z;1076;.a..;r/rrwxr-xr-x;0;0;65402;/etc/init.d/mtab
+2016-06-10T12:29:22Z;2693;.a..;r/rrwxr-xr-x;0;0;65404;/etc/init.d/fsck
+2016-06-10T12:29:22Z;1494;.a..;r/rrwxr-xr-x;0;0;65405;/etc/init.d/savecache
+2016-06-10T12:29:22Z;622;.a..;r/rrwxr-xr-x;0;0;65406;/etc/init.d/s6-svscan
+2016-06-10T12:29:22Z;544;.a..;r/rrwxr-xr-x;0;0;65407;/etc/init.d/swclock
+2016-06-10T12:29:22Z;720;.a..;r/rrwxr-xr-x;0;0;65408;/etc/init.d/hwdrivers
+2016-06-10T12:29:22Z;1257;.a..;r/rrwxr-xr-x;0;0;65409;/etc/init.d/netmount
+2016-06-10T12:29:22Z;804;.a..;r/rrwxr-xr-x;0;0;65410;/etc/init.d/swapfiles
+2016-06-10T12:29:22Z;1622;.a..;r/rrwxr-xr-x;0;0;65411;/etc/init.d/staticroute
+2016-06-10T12:29:22Z;229;.a..;r/rrwxr-xr-x;0;0;65413;/etc/init.d/osclock
+2016-06-10T12:29:22Z;2210;.a..;r/rrwxr-xr-x;0;0;65414;/etc/init.d/local
+2016-06-10T12:29:22Z;2591;.a..;r/rrwxr-xr-x;0;0;65415;/etc/init.d/hwclock
+2016-06-10T12:29:22Z;1646;.a..;r/rrwxr-xr-x;0;0;65417;/etc/init.d/net-online
+2016-06-10T12:29:22Z;715;.a..;r/rrwxr-xr-x;0;0;65419;/etc/init.d/numlock
+2016-06-10T12:29:22Z;338;.a..;r/rrwxr-xr-x;0;0;65420;/etc/init.d/tmpfiles.setup
+2016-06-10T12:29:22Z;505;.a..;r/rrwxr-xr-x;0;0;65421;/etc/init.d/modules
+2016-06-10T12:29:22Z;1082;.a..;r/rrwxr-xr-x;0;0;65422;/etc/init.d/mount-ro
+2016-06-10T12:29:22Z;326;.a..;r/rrwxr-xr-x;0;0;65423;/etc/init.d/dmesg
+2016-06-10T12:29:22Z;675;.a..;r/rrwxr-xr-x;0;0;65424;/etc/init.d/procfs
+2016-06-10T12:29:22Z;380;.a..;r/rrwxr-xr-x;0;0;65425;/etc/init.d/binfmt
+2016-06-10T12:29:22Z;405;.a..;r/rrwxr-xr-x;0;0;65428;/etc/init.d/killprocs
+2016-06-10T12:29:22Z;1049;.a..;r/rrwxr-xr-x;0;0;65429;/etc/init.d/termencoding
+2016-06-10T12:29:22Z;789;.a..;r/rrw-r--r--;0;0;65432;/etc/conf.d/consolefont
+2016-06-10T12:29:22Z;124;.a..;r/rrw-r--r--;0;0;65433;/etc/conf.d/modloop
+2016-06-10T12:29:22Z;348;.a..;r/rrw-r--r--;0;0;65435;/etc/conf.d/devfs
+2016-06-10T12:29:22Z;270;.a..;r/rrw-r--r--;0;0;65436;/etc/conf.d/mtab
+2016-06-10T12:29:22Z;1402;.a..;r/rrw-r--r--;0;0;65438;/etc/conf.d/fsck
+2016-06-10T12:29:22Z;76;.a..;r/rrw-r--r--;0;0;65439;/etc/conf.d/tmpfiles
+2016-06-10T12:29:22Z;1335;.a..;r/rrw-r--r--;0;0;65440;/etc/conf.d/netmount
+2016-06-10T12:29:22Z;357;.a..;r/rrw-r--r--;0;0;65441;/etc/conf.d/staticroute
+2016-06-10T12:29:22Z;857;.a..;r/rrw-r--r--;0;0;65442;/etc/conf.d/hwclock
+2016-06-10T12:29:22Z;573;.a..;r/rrw-r--r--;0;0;65444;/etc/conf.d/net-online
+2016-06-10T12:29:22Z;898;.a..;r/rrw-r--r--;0;0;65446;/etc/conf.d/modules
+2016-06-10T12:29:22Z;117;.a..;r/rrw-r--r--;0;0;65447;/etc/conf.d/dmesg
+2016-06-10T12:29:22Z;105;.a..;r/rrw-r--r--;0;0;65449;/etc/conf.d/killprocs
+2016-06-10T12:29:22Z;253;.a..;r/rrwxr-xr-x;0;0;65454;/etc/init.d/rdate
+2016-06-10T12:29:22Z;152;.a..;r/rrwxr-xr-x;0;0;65455;/etc/init.d/httpd
+2016-06-10T12:29:22Z;291;.a..;r/rrwxr-xr-x;0;0;65456;/etc/init.d/watchdog
+2016-06-10T12:29:22Z;739;.a..;r/rrwxr-xr-x;0;0;65457;/etc/init.d/mdev
+2016-06-10T12:29:22Z;184;.a..;r/rrwxr-xr-x;0;0;65458;/etc/init.d/inetd
+2016-06-10T12:29:22Z;173;.a..;r/rrwxr-xr-x;0;0;65460;/etc/init.d/udhcpd
+2016-06-10T12:29:22Z;172;.a..;r/rrwxr-xr-x;0;0;65462;/etc/init.d/dnsd
+2016-06-10T12:29:22Z;207;.a..;r/rrwxr-xr-x;0;0;65463;/etc/init.d/ntpd
+2016-06-10T12:29:22Z;48;.a..;r/rrw-r--r--;0;0;65469;/etc/conf.d/rdate
+2016-06-10T12:29:22Z;40;.a..;r/rrw-r--r--;0;0;65470;/etc/conf.d/watchdog
+2016-06-10T12:29:22Z;106;.a..;r/rrw-r--r--;0;0;65472;/etc/conf.d/ntpd
+2016-06-10T12:29:22Z;602;.a..;r/rrwxr-xr-x;0;0;65484;/etc/init.d/kmod-static-nodes
+2016-06-10T12:29:22Z;437;.a..;r/rrw-r--r--;0;101;67282;/etc/bind/named.conf
+2016-06-10T12:29:22Z;2389;.a..;r/rrw-r--r--;0;0;67285;/etc/bind/bind.keys
+2016-06-10T12:29:22Z;183;.a..;r/rrw-r--r--;0;0;67287;/etc/conf.d/named
+2016-06-10T12:29:22Z;183;.a..;r/rrw-r--r--;0;0;67287;/etc/conf.d/named.apk-new (deleted-realloc)
+2016-06-10T12:30:00Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp cron.info crond[1773]: USER root pid 2136 cmd run-parts /etc/periodic/15min  (file: /mnt/image/var/log/messages)
+2016-06-10T12:30:00Z;1024;.a..;d/drwxr-xr-x;0;0;65395;/etc/periodic/15min
+2016-06-10T12:30:28Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: network unreachable resolving 'meow.com/A/IN': 2001:503:c27::2:30#53  (file: /mnt/image/var/log/messages)
+2016-06-10T12:30:29Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: network unreachable resolving 'c.gtld-servers.net/AAAA/IN': 2001:500:1::803f:235#53  (file: /mnt/image/var/log/messages)
+2016-06-10T12:30:29Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: network unreachable resolving 'c.gtld-servers.net/AAAA/IN': 2001:7fe::53#53  (file: /mnt/image/var/log/messages)
+2016-06-10T12:30:29Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: network unreachable resolving 'd.gtld-servers.net/A/IN': 2001:500:125::30#53  (file: /mnt/image/var/log/messages)
+2016-06-10T12:30:29Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: network unreachable resolving 'g.gtld-servers.net/A/IN': 2001:500:126::30#53  (file: /mnt/image/var/log/messages)
+2016-06-10T12:30:29Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: network unreachable resolving 'g.gtld-servers.net/AAAA/IN': 2001:500:126::30#53  (file: /mnt/image/var/log/messages)
+2016-06-10T12:30:30Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: network unreachable resolving 'b.gtld-servers.net/AAAA/IN': 2001:500:124::30#53  (file: /mnt/image/var/log/messages)
+2016-06-10T12:30:30Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: network unreachable resolving 'b.gtld-servers.net/AAAA/IN': 2001:500:127::30#53  (file: /mnt/image/var/log/messages)
+2016-06-10T12:30:30Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: network unreachable resolving 'e.gtld-servers.net/A/IN': 2001:503:231d::2:30#53  (file: /mnt/image/var/log/messages)
+2016-06-10T12:30:30Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: network unreachable resolving 'j.gtld-servers.net/AAAA/IN': 2001:500:2f::f#53  (file: /mnt/image/var/log/messages)
+2016-06-10T12:30:31Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53  (file: /mnt/image/var/log/messages)
+2016-06-10T12:30:31Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: network unreachable resolving 'b.gtld-servers.net/AAAA/IN': 2001:503:ba3e::2:30#53  (file: /mnt/image/var/log/messages)
+2016-06-10T12:30:32Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: network unreachable resolving './NS/IN': 2001:500:2::c#53  (file: /mnt/image/var/log/messages)
+2016-06-10T12:30:32Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: network unreachable resolving './NS/IN': 2001:500:9f::42#53  (file: /mnt/image/var/log/messages)
+2016-06-10T12:30:32Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: network unreachable resolving 'j.gtld-servers.net/AAAA/IN': 2001:7fd::1#53  (file: /mnt/image/var/log/messages)
+2016-06-10T12:30:35Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: network unreachable resolving 'k.gtld-servers.net/AAAA/IN': 2001:500:84::b#53  (file: /mnt/image/var/log/messages)
+2016-06-10T12:30:35Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: network unreachable resolving 'k.gtld-servers.net/AAAA/IN': 2001:dc3::35#53  (file: /mnt/image/var/log/messages)
+2016-06-10T12:31:00Z;1024;.a..;d/drwxr-sr-x;1001;1001;4104;/home/jean
+2016-06-10T12:31:00Z;914;.a..;r/rrw-r-----;0;42;67279;/etc/shadow
+2016-06-10T12:31:00Z;914;.a..;r/rrw-r-----;0;42;67279;/etc/vsftpd/vsftpd.conf~ (deleted-realloc)
+2016-06-10T12:31:05Z;1024;.a..;d/drwxrwxrwx;0;1001;4113;/home/jean/photos
+2016-06-10T12:31:12Z;2896;m.c.;r/rrw-------;0;0;35715;/var/log/vsftpd.log
+2016-06-10T12:31:12Z;0;macb;0;0;0;35715;"[OpenVPN] (Entry written) [pid 3] [jean] FAIL DOWNLOAD: Client ""192.168.1.7""- ""/home/jean/photos/we_will-we_will-hack_you!.jpg""- 0.00Kbyte/sec  (file: /var/log/vsftpd.log)"
+2016-06-10T12:32:15Z;252;.a..;r/rrw-------;0;0;1049;/root/.ash_history
+2016-06-10T12:32:15Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp auth.info sshd[2149]: Accepted password for root from 192.168.1.7 port 48707 ssh2  (file: /mnt/image/var/log/messages)
+2016-06-10T12:32:15Z;1024;.a..;d/drwxr-xr-x;0;0;65367;/etc/profile.d
+2016-06-10T12:32:15Z;259;.a..;r/rrw-r--r--;0;0;65373;/etc/profile
+2016-06-10T12:32:15Z;282;.a..;r/rrw-r--r--;0;0;65382;/etc/motd
+2016-06-10T12:32:21Z;12;.a..;l/lrwxrwxrwx;0;0;32724;/bin/ls -> /bin/busybox
+2016-06-10T12:32:53Z;252;m.c.;r/rrw-------;0;0;1049;/root/.ash_history
+2016-06-10T12:32:53Z;12;.a..;l/lrwxrwxrwx;0;0;120;/usr/bin/pgrep -> /bin/busybox
+2016-06-10T12:32:53Z;12;.a..;l/lrwxrwxrwx;0;0;233;/lib/rc/bin/service_get_value -> /sbin/openrc
+2016-06-10T12:32:53Z;12;.a..;l/lrwxrwxrwx;0;0;233;/lib/rc/bin/service_get_value.apk-new -> /sbin/openrc (deleted-realloc)
+2016-06-10T12:32:53Z;12;.a..;l/lrwxrwxrwx;0;0;32701;/sbin/ifdown -> /bin/busybox
+2016-06-10T12:32:53Z;12;.a..;l/lrwxrwxrwx;0;0;32750;/sbin/poweroff -> /bin/busybox
+2016-06-10T12:32:53Z;1024;m.c.;d/drwxr-xr-x;100;1000;32846;/var/lib/chrony
+2016-06-10T12:32:53Z;512;m.c.;r/rrw-------;0;0;32847;/var/lib/misc/random-seed
+2016-06-10T12:32:53Z;28906;m.c.;r/rrw-r--r--;0;0;35103;/var/log/messages
+2016-06-10T12:32:53Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp auth.info sshd[1801]: Received signal 15_ terminating.  (file: /mnt/image/var/log/messages)
+2016-06-10T12:32:53Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp auth.info sshd[2149]: Exiting on signal 15  (file: /mnt/image/var/log/messages)
+2016-06-10T12:32:53Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info chronyd[1745]: chronyd exiting  (file: /mnt/image/var/log/messages)
+2016-06-10T12:32:53Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info init: starting pid 2155- tty '': '/sbin/rc shutdown'  (file: /mnt/image/var/log/messages)
+2016-06-10T12:32:53Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: no longer listening on 127.0.0.1#53  (file: /mnt/image/var/log/messages)
+2016-06-10T12:32:53Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: no longer listening on 192.168.1.10#53  (file: /mnt/image/var/log/messages)
+2016-06-10T12:32:53Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.info named[2129]: shutting down  (file: /mnt/image/var/log/messages)
+2016-06-10T12:32:53Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp daemon.notice named[2129]: exiting  (file: /mnt/image/var/log/messages)
+2016-06-10T12:32:53Z;0;mac.;r/rrw-------;1000;101;35716;/var/bind/tmp-qd7YcYF8Rb (deleted)
+2016-06-10T12:32:53Z;42;mac.;r/rrw-r--r--;100;1000;35720;/var/cache/misc/busybox-1.24.1-r7.trigger (deleted-realloc)
+2016-06-10T12:32:53Z;42;mac.;r/rrw-r--r--;100;1000;35720;/var/lib/chrony/chrony.drift
+2016-06-10T12:32:53Z;42;mac.;r/rrw-r--r--;100;1000;35720;/var/lib/chrony/chrony.drift.tmp (deleted-realloc)
+2016-06-10T12:32:53Z;1024;m.c.;d/drwxrwx---;0;101;36742;/var/bind
+2016-06-10T12:32:53Z;1024;.a..;d/drwxr-xr-x;0;0;65307;/etc/conf.d
+2016-06-10T12:32:53Z;1024;.a..;d/drwxr-xr-x;0;0;65327;/etc/runlevels/shutdown
+2016-06-10T12:32:53Z;21;.a..;l/lrwxrwxrwx;0;0;65328;/etc/runlevels/shutdown/savecache -> /etc/init.d/savecache
+2016-06-10T12:32:53Z;21;.a..;l/lrwxrwxrwx;0;0;65329;/etc/runlevels/shutdown/killprocs -> /etc/init.d/killprocs
+2016-06-10T12:32:53Z;20;.a..;l/lrwxrwxrwx;0;0;65330;/etc/runlevels/shutdown/mount-ro -> /etc/init.d/mount-ro
+2016-06-10T12:32:53Z;1024;.a..;d/drwxr-xr-x;0;0;65358;/etc/network/if-post-down.d
+2016-06-10T12:32:53Z;1024;.a..;d/drwxr-xr-x;0;0;65360;/etc/network/if-down.d
+2016-06-10T12:32:54Z;12;.a..;l/lrwxrwxrwx;0;0;224;/lib/rc/bin/einfo -> /sbin/openrc
+2016-06-10T12:32:54Z;12;.a..;l/lrwxrwxrwx;0;0;224;/lib/rc/bin/einfo.apk-new -> /sbin/openrc (deleted-realloc)
+2016-06-10T12:32:54Z;1893;.a..;r/rr--r--r--;0;0;276;/lib/rc/sh/rc-mount.sh
+2016-06-10T12:32:54Z;1893;.a..;r/rr--r--r--;0;0;276;/lib/rc/sh/rc-mount.sh.apk-new (deleted-realloc)
+2016-06-10T12:32:54Z;8;ma..;r/rrw-r--r--;0;0;2781;/lib/rc/cache/softlevel
+2016-06-10T12:32:54Z;12;.a..;l/lrwxrwxrwx;0;0;32697;/sbin/halt -> /bin/busybox
+2016-06-10T12:32:54Z;12;.a..;l/lrwxrwxrwx;0;0;32699;/sbin/hwclock -> /bin/busybox
+2016-06-10T12:32:54Z;12;.a..;l/lrwxrwxrwx;0;0;32771;/sbin/swapoff -> /bin/busybox
+2016-06-10T12:32:54Z;12;.a..;l/lrwxrwxrwx;0;0;32774;/bin/sync -> /bin/busybox
+2016-06-10T12:32:54Z;11;.a..;l/lrwxrwxrwx;0;0;32782;/bin/umount -> /bin/bbsuid
+2016-06-10T12:32:54Z;12;.a..;l/lrwxrwxrwx;0;0;32783;/bin/uname -> /bin/busybox
+2016-06-10T12:32:54Z;12;.a..;l/lrwxrwxrwx;0;0;92;/usr/sbin/killall5 -> /bin/busybox
+2016-06-10T12:32:56Z;22983;..c.;r/rrw-r--r--;0;0;1047;/lib/rc/cache/deptree
+2016-06-10T12:32:56Z;11;..c.;r/rrw-r--r--;0;0;2779;/lib/rc/cache/depconfig
+2016-06-10T12:32:56Z;8;..c.;r/rrw-r--r--;0;0;2781;/lib/rc/cache/softlevel
+2016-06-10T12:32:56Z;12;.a..;l/lrwxrwxrwx;0;0;32670;/bin/cp -> /bin/busybox
+2016-06-10T12:32:56Z;1024;m.c.;d/drwxr-xr-x;0;0;4105;/lib/rc/cache
+2016-06-10T14:23:47Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp syslog.info syslogd started: BusyBox v1.24.1  (file: /mnt/image/var/log/messages)
+2016-06-10T14:32:53Z;0;macb;0;0;0;35103;[Generic Linux Log] (Entry written) myftp syslog.info syslogd exiting  (file: /mnt/image/var/log/messages)
